@@ -1,0 +1,85 @@
+.change {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 53px;
+}
+
+.img-globus {
+    position: relative;
+    right: 40px;
+    top: 40px;
+}
+
+.change-tour {
+    color: #262A4E;
+    text-align: center;
+    font-weight: 700;
+}
+
+.change-change {
+    color: #ABABAB;
+    width: 649px;
+    text-align: center;
+    padding-top: 35px;
+    font-weight: 400;
+}
+
+.text-button {
+    text-align: center;
+}
+
+.btn-1 {
+    margin-top: 42px;
+    width: 362.18px;
+    height: 60px;
+    border-radius: 10px;
+    gap: 8px;
+    background-color: #E4319C;
+    color: #fff;
+    font-weight: bold;
+}
+
+.btn-1 {
+    width: 362.18px;
+    height: 60px;
+    border-radius: 10px;
+    gap: 8px;
+    background-color: #E4319C;
+    color: #fff;
+    font-weight: bold;
+    border: none;
+    margin-bottom: 28px;
+    cursor: pointer;
+}
+
+.btn-2 {
+    width: 362.18px;
+    height: 60px;
+    border-radius: 10px;
+    gap: 8px;
+    background-color: #1FAABD;
+    color: #fff;
+    font-weight: bold;
+    border: none;
+    margin-bottom: 28px;
+    cursor: pointer;
+}
+
+.btn-3 {
+    width: 362.18px;
+    height: 60px;
+    border-radius: 10px;
+    gap: 8px;
+    background-color: #1F255E;
+    color: #fff;
+    font-weight: bold;
+    border: none;
+    margin-bottom: 28px;
+    cursor: pointer;
+}
+
+.link-btn {
+    cursor: default;
+}

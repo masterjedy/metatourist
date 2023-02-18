@@ -1,0 +1,17 @@
+.footer {
+    display: flex;
+    justify-content: start;
+    width: 989px;
+    height: 112px;
+}
+
+.text {
+    display: flex;
+    align-items: center;
+    color: #1F255E;
+    font-weight: 700;
+}
+
+.footer__logo {
+    padding: 19px 19px 19px 44px;
+}

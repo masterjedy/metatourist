@@ -1,0 +1,38 @@
+.main-section {
+    display: flex;
+    flex-direction: column;
+    background-color: #1F255E;
+    justify-content: center;
+    align-items: center;
+}
+
+.slogan {
+    color: #FFFFFF;
+    justify-content: center;
+    text-align: center;
+    padding-top: 42px;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.slogan-2 {
+    color: #14D0EA;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-top: 65px;
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.conteiner-section {
+    display: flex;
+    justify-content: end;
+    padding-top: 75px;
+}
+
+.img__MainSection {
+    justify-content: end;
+    width: 492.56px;
+    height: 224.07px;
+}
