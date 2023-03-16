@@ -8,7 +8,7 @@ const MainSection = () => {
         <div className='main-section'>
             <Text className='slogan'>Путешествуй сам, с друзьями, с гидом</Text>
             <Text className='slogan-2'>Цифровые туры по метавселенным</Text>
-            <div className='conteiner-section'>
+            <div className='container-section'>
                 <img className='img__MainSection' src={images.MainSection} alt='MainSection' />
             </div>
         </div>

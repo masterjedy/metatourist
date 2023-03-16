@@ -1,13 +1,13 @@
 import { PanelHeader, PanelHeaderBack, PanelHeaderClose } from '@vkontakte/vkui'
 import React from 'react'
 import Change from '../Change/Change'
-import Foter from '../Footer/Foter'
+import Footer from '../Footer/Footer'
 import MainSection from '../MainSection/MainSection'
 
 const Home = () => {
     return (
         <div>
-            <Foter />
+            <Footer />
             <MainSection />
             <Change />
         </div>

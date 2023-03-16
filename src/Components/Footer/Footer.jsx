@@ -2,7 +2,7 @@ import React from 'react'
 import images from '../../assets/images'
 import './index.scss'
 
-const Foter = () => {
+const Footer = () => {
     return (
         <div className='footer'>
             <img className='footer__logo' src={images.Logo} alt="Logo" />
@@ -11,4 +11,4 @@ const Foter = () => {
     )
 }
 
-export default Foter
+export default Footer
